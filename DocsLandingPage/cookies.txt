@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.app-sj21.marketo.com	TRUE	/	FALSE	1999999999	__cfduid	d1367d5dcf6d6e2f0de302c0832e00c601600151181
+.app-sj21.marketo.com	TRUE	/	FALSE	1999999999	__cf_bm	0b4f426ec546ddd9b4c59afaa69cca1b5b9461b3-1600151181-1800-Ab23WCFTRfwaVLjWLUmoez1g8MV+bsjwfERpo5agtFULcVgTNh68xRJGkC3wnnXNFd7J+u+/spgMbXluSqzGb1Q=
+app-sj21.marketo.com	TRUE	/	FALSE	1999999999	SameSite	None
+
