@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.softwareag.cloud	TRUE	/	FALSE	1999999999	XSRF-TOKEN	ff06929a-a2bf-4232-b522-2f0b420acf4e
+.info.softwareag.com	TRUE	/	FALSE	1999999999	__cfduid	d98aed71e2adbe1f49d1dce37b96fe3e61600172477
+info.softwareag.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

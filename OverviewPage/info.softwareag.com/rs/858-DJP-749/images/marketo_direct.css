@@ -1,0 +1,21 @@
+.ui-menu 
+{
+border: 1px solid #aeb0b6;
+box-shadow: 1px 1px 4px 1px #ddd inset;  
+max-width: 420px;
+list-style-type: none;
+}
+
+.ui-menu .ui-menu-item-wrapper {
+position: relative;
+background-color: #fff;
+margin-left: -40px;
+color: #000;
+padding: 0.2em 0.3em;
+list-style-type: none;
+}
+
+.ui-menu-item :hover{
+	background-color: #ebebeb;
+}
+.ui-helper-hidden-accessible {display: none;}
